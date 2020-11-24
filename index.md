@@ -160,24 +160,14 @@ print("Probability of certainty was: ", pred_results[0][val_max])
 
 The work done describes the use of neural networks to train a chat bot. Following the creation of the model, test is carried out on the model, with very impressive accuracy of prediction of the results. The Facebook bAbi dataset proved very helpful and instrumental for this research. 
 
-For the full code, check the github page.
-
 ### References
 
-[artificial-solutions.com/chatbots (2020) ‘Chatbots: The definitive guide’.] (https://www.artificial-solutions.com/chatbots)
+[artificial-solutions.com/chatbots (2020) ‘Chatbots: The definitive guide’.](https://www.artificial-solutions.com/chatbots)
 
 [Bhowmick .H(2019).‘Your chatbot is cool — but how does it work’?](https://uxdesign.cc/and-how-do-they-work-f692205956ed) 
 
-You can find the [link to paper] (https://arxiv.org/pdf/1503.08895.pdf) and [code reference] (https://www.pieriandata.com/) here.
+You can find the [link to paper](https://arxiv.org/pdf/1503.08895.pdf) and [code reference](https://www.pieriandata.com/) here.
 
 [Dialog-based Language Learning dataset](https://research.fb.com/downloads/babi/) 
 
-More information about [Keras Layers] (https://keras.io/api/layers/) can be found here.
-
-
-### Collaborators:
-
-Monsurat Oluwatosin  
-Pallavi Kale  
-Bhakti Chauhan  
-Onyinye Chudi-Iwueze  
+More information about [Keras Layers](https://keras.io/api/layers/) can be found here.
